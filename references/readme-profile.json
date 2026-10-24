@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 335｜Underground Stamp: keeps the photo and cuts its subject down to one small DIY street emblem, like a badge from an underground label, zine or crew — a bold, slightly irregular silhouette built from circles, arcs, thick lines and solid blocks that stays readable at tiny sizes, off-centre or partly cropped, in two to five spot colours such as red, warm white, black, forest green or deep blue, with screen-print, rubber-stamp, sticker and photocopy texture and uneven ink, plus at most a stamped or condensed-grotesk abbreviation or tag. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-335 or asks for a punk zine badge, streetwear mark, rubber stamp or DIY emblem from a photo.",
+  "short_description": "地下图章：把照片主体收成一枚强剪影、少色手工印刷、缩小也认得出的街头徽章",
+  "zh-CN": {
+    "name": "地下图章",
+    "tagline": "把照片主体收成一枚缩到很小也认得出的地下文化街头徽章。",
+    "look": "照片里的主体、动作或关键物件被压成一个强轮廓符号，用圆、弧线、粗线和块面拼成，边缘手绘不规整，缩小到贴纸大小也能认出来。整体只有两到五种专色，比如红、暖白、黑、森林绿或深蓝，带着丝网印刷、橡皮章、贴纸和复印留下的油墨不均和轻微错位。符号常常偏在一边或被局部裁掉，周围留白，配一两个辅助小元素。文字最多是一个缩写、编号或盖章式的粗体标签。",
+    "traits": [
+      "地下文化",
+      "街头徽章",
+      "强剪影",
+      "手工印刷",
+      "小尺寸识别"
+    ],
+    "good": [
+      "动作或姿态很有态度的人物：滑板、骑车、戴帽子插兜、弹吉他",
+      "形状鲜明的单个物件或动物：一双球鞋、一台磁带机、一条狗、一只乌鸦",
+      "想做成贴纸、T 恤印花、独立杂志标记或乐队徽章的照片"
+    ],
+    "poor": [
+      "需要精细细节或清楚五官的照片：人像精修、首饰、产品图",
+      "主体分散、层次很多的风景和人群，压不成一个强剪影",
+      "想要企业 VI、奢侈品极简 Logo、光滑矢量或 3D 渐变效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Underground Stamp",
+    "tagline": "Cuts the subject of your photo into an underground street badge that still reads when shrunk very small.",
+    "look": "The subject, action or key object is pressed into one strong-outline symbol built from circles, arcs, thick lines and solid blocks, with irregular hand-drawn edges that stay recognisable even at sticker size. There are only two to five spot colours, such as red, warm white, black, forest green or deep blue, with the uneven ink and slight misregistration of screen printing, rubber stamps, stickers and photocopies. The mark often sits off to one side or is partly cropped, with empty space and one or two small supporting elements. Text is at most an abbreviation, number or stamped bold tag.",
+    "traits": [
+      "Underground culture",
+      "Street badge",
+      "Bold silhouette",
+      "Hand printing",
+      "Reads small"
+    ],
+    "good": [
+      "People with an attitude in their action or stance: skateboarding, cycling, hands in pockets under a cap, playing guitar",
+      "A single object or animal with a distinct shape: a pair of sneakers, a cassette player, a dog, a crow",
+      "Photos you want as a sticker, T-shirt print, zine mark or band badge"
+    ],
+    "poor": [
+      "Photos that need fine detail or clear faces: retouched portraits, jewellery, product shots",
+      "Scattered, many-layered landscapes and crowds that cannot become one bold silhouette",
+      "Requests for corporate identity, a minimal luxury logo, smooth vector art or 3D gradients"
+    ]
+  },
+  "ja": {
+    "name": "アンダーグラウンド・スタンプ",
+    "tagline": "写真の主役を、ごく小さくしても見分けがつくアンダーグラウンドなストリートバッジにします。",
+    "look": "主役、動き、要となる物が、円、弧、太い線、ベタ面で組んだ輪郭の強い一つの記号に押し込まれます。縁は手描きらしく不揃いで、ステッカー大まで縮めても見分けられます。色はレッド、温かい白、黒、森の緑、深い青など二〜五色の特色だけで、シルクスクリーン、ゴム印、ステッカー、コピー機で刷ったようなインクのむらとわずかなずれがあります。記号は片側に寄せたり一部を切ったりして置かれ、周りの余白に小さな補助要素が一つ二つ添えられます。文字は入っても略号、番号、スタンプ風の太字タグ程度です。",
+    "traits": [
+      "アンダーグラウンド文化",
+      "ストリートバッジ",
+      "強いシルエット",
+      "手刷り",
+      "小さくても読める"
+    ],
+    "good": [
+      "動きや立ち姿に態度がある人物：スケートボード、自転車、帽子にポケットに手、ギター演奏",
+      "形がはっきりした一つの物や動物：スニーカー、カセットプレーヤー、犬、カラス",
+      "ステッカー、T シャツのプリント、ジンのマーク、バンドのバッジにしたい写真"
+    ],
+    "poor": [
+      "細部やはっきりした顔立ちが必要な写真：レタッチしたポートレート、アクセサリー、商品写真",
+      "主役が散らばり奥行きの多い風景や人混み（一つの強いシルエットになりません）",
+      "企業 VI、ラグジュアリーブランドのミニマルロゴ、つるっとしたベクター、3D グラデーションを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "언더그라운드 스탬프",
+    "tagline": "사진 속 주인공을 아주 작게 줄여도 알아볼 수 있는 언더그라운드 스트리트 배지로 만듭니다.",
+    "look": "주인공, 동작, 핵심 사물을 원, 호, 굵은 선, 면으로 짜 맞춘 윤곽 강한 기호 하나로 압축합니다. 가장자리는 손으로 그린 듯 고르지 않고, 스티커 크기로 줄여도 알아볼 수 있습니다. 색은 빨강, 따뜻한 흰색, 검정, 숲색, 짙은 파랑 같은 별색 두세 가지에서 다섯 가지뿐이며, 실크스크린, 고무도장, 스티커, 복사기로 찍은 듯한 잉크 얼룩과 살짝 어긋난 인쇄가 남습니다. 기호는 한쪽으로 치우치거나 일부가 잘린 채 놓이고, 여백에 작은 보조 요소가 한두 개 붙습니다. 글자는 있어도 약자, 번호, 도장처럼 찍힌 굵은 태그 정도입니다.",
+    "traits": [
+      "언더그라운드 문화",
+      "스트리트 배지",
+      "강한 실루엣",
+      "수작업 인쇄",
+      "작아도 읽힘"
+    ],
+    "good": [
+      "동작이나 자세에 태도가 느껴지는 인물: 스케이트보드, 자전거, 모자 쓰고 주머니에 손, 기타 연주",
+      "형태가 뚜렷한 사물이나 동물 하나: 운동화 한 켤레, 카세트 플레이어, 개, 까마귀",
+      "스티커, 티셔츠 프린트, 진 마크, 밴드 배지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세밀한 디테일이나 또렷한 얼굴이 필요한 사진: 보정한 인물 사진, 액세서리, 제품 사진",
+      "주인공이 흩어지고 층이 많은 풍경과 군중(하나의 강한 실루엣이 되지 않습니다)",
+      "기업 VI, 명품 미니멀 로고, 매끈한 벡터, 3D 그라데이션을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الختم السرّي",
+    "tagline": "يقصّ العنصر الرئيسي في صورتك إلى شارة شارع من ثقافة الهامش تبقى مقروءة حتى بحجم صغير جداً.",
+    "look": "يُختزل العنصر أو الحركة أو الشيء الأساسي في رمز واحد قوي الحدود مبني من دوائر وأقواس وخطوط سميكة ومساحات مصمتة، بحواف غير منتظمة مرسومة باليد تبقى مفهومة حتى بحجم ملصق صغير. لا تظهر إلا من لونين إلى خمسة ألوان خاصة، مثل الأحمر والأبيض الدافئ والأسود والأخضر الغابي أو الأزرق الداكن، مع تفاوت الحبر والانزياح الخفيف الذي تتركه الطباعة الحريرية والأختام المطاطية والملصقات والنسخ الضوئي. يوضع الرمز غالباً في جانب أو يُقصّ جزء منه، حوله فراغ وعنصر مساعد صغير أو اثنان. وإن وُجد نص فهو اختصار أو رقم أو وسم عريض كأنه مختوم.",
+    "traits": [
+      "ثقافة الهامش",
+      "شارة شارع",
+      "ظلّ قوي",
+      "طباعة يدوية",
+      "واضح بحجم صغير"
+    ],
+    "good": [
+      "أشخاص في حركتهم أو وقفتهم موقف واضح: تزلّج على اللوح، ركوب دراجة، يدان في الجيبين تحت قبعة، عزف على الغيتار",
+      "شيء أو حيوان واحد بشكل مميّز: زوج أحذية رياضية، مشغّل كاسيت، كلب، غراب",
+      "صور تريدها ملصقاً أو طبعة على قميص أو علامة لمجلة مستقلة أو شارة لفرقة موسيقية"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل دقيقة أو وجوه واضحة: صور شخصية معدّلة، مجوهرات، صور منتجات",
+      "مناظر طبيعية وحشود متفرقة كثيرة الطبقات لا تتحول إلى ظلّ قوي واحد",
+      "طلب هوية شركات أو شعار فاخر بسيط أو رسوم متجهية ملساء أو تدرّجات ثلاثية الأبعاد"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-335
-description: "Create XXD Panel 335 raster artwork: a faithful photograph paired with one DIY punk street badge, a strong silhouette that still reads when very small. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-335 or asks for this 地下图章 style."
+description: "XXD Panel 335｜Underground Stamp: keeps the photo and cuts its subject down to one small DIY street emblem, like a badge from an underground label, zine or crew — a bold, slightly irregular silhouette built from circles, arcs, thick lines and solid blocks that stays readable at tiny sizes, off-centre or partly cropped, in two to five spot colours such as red, warm white, black, forest green or deep blue, with screen-print, rubber-stamp, sticker and photocopy texture and uneven ink, plus at most a stamped or condensed-grotesk abbreviation or tag. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-335 or asks for a punk zine badge, streetwear mark, rubber stamp or DIY emblem from a photo."
 ---
 
 # XXD Panel 335
